@@ -1,5 +1,5 @@
 {
-  "homepage ": "https://BookCnk.github.io/poke-info-react",
+  "homepage ": "https://bookcnk.github.io/poke-info-react",
   "name": "junior-react-skill-api",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"   
+    "preview": "vite preview"
   },
   "dependencies": {
     "axios": "^1.6.3",
